@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">坦克世界百宝箱</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="heavyTank">重型坦克</string>
+    <string name="mediumTank">中型坦克</string>
+    <string name="lightTank">轻型坦克</string>
+    <string name="tankDestroyer">坦克歼击车</string>
+    <string name="selfPropelledGun">自行火炮</string>
+    <string name="title_activity_tank_list">TankListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tank_list2">TankList2Activity</string>
+    <string name="title_activity_main">坦克世界百宝箱</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
